@@ -1,0 +1,38 @@
+/* Write your CSS here */
+.Container-1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+  height: 100vh;
+}
+
+.container-2 {
+  text-align: center;
+  border-radius: 12px;
+  padding: 24px;
+}
+
+.container-light {
+  color: #000000;
+  background-color: #ffffff;
+  border: 1px solid #000000;
+}
+
+.container-dark {
+  color: #ffffff;
+  background-color: #000000;
+}
+
+.heading-light {
+  font-size: 30px;
+  font-family: 'Roboto';
+}
+
+.button {
+  font-size: 30px;
+  font-family: 'Roboto';
+  color: #000000;
+  border-radius: 8px;
+  border-color: transparent;
+}
